@@ -1,2 +1,2 @@
-# Game-Minilemon-Explorers
-Minilemon Explorer github documentation and repository
+# Minilemon-Games
+Minilemon Games github documentation and repository
