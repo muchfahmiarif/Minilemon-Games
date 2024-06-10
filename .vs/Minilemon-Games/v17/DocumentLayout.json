@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A25B01-6B28-0307-45BF-E83824C05BE8}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\unity learning\\02.2024\\minilemon-games\\assets\\digger\\documentation.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C1A25B01-6B28-0307-45BF-E83824C05BE8}|Assembly-CSharp.csproj|solutionrelative:assets\\digger\\documentation.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A25B01-6B28-0307-45BF-E83824C05BE8}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\unity learning\\02.2024\\minilemon-games\\assets\\digger\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C1A25B01-6B28-0307-45BF-E83824C05BE8}|Assembly-CSharp.csproj|solutionrelative:assets\\digger\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A25B01-6B28-0307-45BF-E83824C05BE8}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\assets\\cartoontown-lowpolyassets\\standard assets\\effects\\depthoffield\\depthoffield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A25B01-6B28-0307-45BF-E83824C05BE8}|Assembly-CSharp.csproj|solutionrelative:assets\\cartoontown-lowpolyassets\\standard assets\\effects\\depthoffield\\depthoffield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A25B01-6B28-0307-45BF-E83824C05BE8}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\assets\\script\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A25B01-6B28-0307-45BF-E83824C05BE8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A25B01-6B28-0307-45BF-E83824C05BE8}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\assets\\thirdpersoncameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A25B01-6B28-0307-45BF-E83824C05BE8}|Assembly-CSharp.csproj|solutionrelative:assets\\thirdpersoncameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\Procedural Worlds\\GeNa\\Scripts\\Spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Procedural Worlds\\GeNa\\Scripts\\Spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\Procedural Worlds\\GeNa\\Scripts\\UndoComponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Procedural Worlds\\GeNa\\Scripts\\UndoComponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\Procedural Worlds\\GeNa\\Scripts\\GeNaUndo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Procedural Worlds\\GeNa\\Scripts\\GeNaUndo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Documentation.txt",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\Digger\\Documentation.txt",
+              "RelativeDocumentMoniker": "Assets\\Digger\\Documentation.txt",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\Digger\\Documentation.txt",
+              "RelativeToolTip": "Assets\\Digger\\Documentation.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-14T08:35:22.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\Digger\\README.txt",
+              "RelativeDocumentMoniker": "Assets\\Digger\\README.txt",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\Digger\\README.txt",
+              "RelativeToolTip": "Assets\\Digger\\README.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-14T08:31:13.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepthOfField.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\CartoonTown-LowPolyAssets\\Standard Assets\\Effects\\DepthOfField\\DepthOfField.cs",
+              "RelativeDocumentMoniker": "Assets\\CartoonTown-LowPolyAssets\\Standard Assets\\Effects\\DepthOfField\\DepthOfField.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\CartoonTown-LowPolyAssets\\Standard Assets\\Effects\\DepthOfField\\DepthOfField.cs",
+              "RelativeToolTip": "Assets\\CartoonTown-LowPolyAssets\\Standard Assets\\Effects\\DepthOfField\\DepthOfField.cs",
+              "ViewState": "AQIAAFMCAAAAAAAAAABRwFYCAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:40:48.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mover.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\Script\\Mover.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Mover.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\Script\\Mover.cs",
+              "RelativeToolTip": "Assets\\Script\\Mover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:40:53.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThirdPersonCameraController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\ThirdPersonCameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\ThirdPersonCameraController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\ThirdPersonCameraController.cs",
+              "RelativeToolTip": "Assets\\ThirdPersonCameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:40:29.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\Procedural Worlds\\GeNa\\Scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Procedural Worlds\\GeNa\\Scripts\\Spawner.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\Procedural Worlds\\GeNa\\Scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Procedural Worlds\\GeNa\\Scripts\\Spawner.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:20:04.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UndoComponent.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\Procedural Worlds\\GeNa\\Scripts\\UndoComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Procedural Worlds\\GeNa\\Scripts\\UndoComponent.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\Procedural Worlds\\GeNa\\Scripts\\UndoComponent.cs",
+              "RelativeToolTip": "Assets\\Procedural Worlds\\GeNa\\Scripts\\UndoComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:19:21.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GeNaUndo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\Procedural Worlds\\GeNa\\Scripts\\GeNaUndo.cs",
+              "RelativeDocumentMoniker": "Assets\\Procedural Worlds\\GeNa\\Scripts\\GeNaUndo.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Unity learning\\02.2024\\Minilemon-Games\\Assets\\Procedural Worlds\\GeNa\\Scripts\\GeNaUndo.cs",
+              "RelativeToolTip": "Assets\\Procedural Worlds\\GeNa\\Scripts\\GeNaUndo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:16:51.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
