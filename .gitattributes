@@ -1,1 +1,2 @@
 Assets/NatureManufacture[[:space:]]Assets/River[[:space:]]Auto[[:space:]]Material/** filter=lfs diff=lfs merge=lfs -text
+Assets/TerrainSampleAssets/** filter=lfs diff=lfs merge=lfs -text
