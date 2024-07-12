@@ -24,6 +24,7 @@ public class PathfindingVisualizer : MonoBehaviour
         navMeshPath = new NavMeshPath();
         lineRenderer = GetComponent<LineRenderer>();
         lineRenderer.positionCount = 0; // Initialize line renderer with zero points
+        lineRenderer.enabled = false;
     }
 
     void Update()
@@ -35,6 +36,11 @@ public class PathfindingVisualizer : MonoBehaviour
 
             DisplayCurvedPath(navMeshPath);
             UpdateVirtualCircle();
+            lineRenderer.enabled = true;
+        }
+        else 
+        {
+            lineRenderer.enabled = false;
         }
     }
 

@@ -1,1 +1,5 @@
-Link dokumentasi : https://docs.google.com/document/d/1RlfVvDJqphVuPk6jvMYQPfi1-Tsh_J9gtcwZiBeNCJo/edit?usp=sharing
+Link dokumentasi Dialogue System: https://docs.google.com/document/d/1RlfVvDJqphVuPk6jvMYQPfi1-Tsh_J9gtcwZiBeNCJo/edit?usp=sharing
+
+Link Dokumentasi Path Finding: https://docs.google.com/document/d/123hy4rsQABndKVFZhaq7HIhTt7dFY0PwXTIMFVwQ-3k/edit?usp=sharing
+
+Link Dokumentasi Path Push & Pull:
