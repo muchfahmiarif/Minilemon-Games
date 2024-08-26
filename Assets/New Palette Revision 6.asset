@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c477de684ee10c4082f9fddf19a75ce, type: 3}
+  m_Name: New Palette Revision 6
+  m_EditorClassIdentifier: 
+  m_paletteEntryIDCount: -2147483643
+  m_paletteEntries:
+  - m_name: Prefab_Birch_02
+    m_id: -2147483647
+    m_guid: 32d3db38af308cc4a86540a04c1e129f
+    m_object: {fileID: 1374899979308285549, guid: 32d3db38af308cc4a86540a04c1e129f,
+      type: 3}
+  - m_name: Prefab_Birch_01
+    m_id: -2147483646
+    m_guid: 2832e458df8616d459183adb0dfa9083
+    m_object: {fileID: 1844897081636531020, guid: 2832e458df8616d459183adb0dfa9083,
+      type: 3}
+  - m_name: Prefab_Birch_03
+    m_id: -2147483645
+    m_guid: c847f36ff465f9d4687850c1982d3683
+    m_object: {fileID: 3438365831924901988, guid: c847f36ff465f9d4687850c1982d3683,
+      type: 3}
+  - m_name: Prefab_Birch_04
+    m_id: -2147483644
+    m_guid: 320a2153c306f124e9df52b52a0f4e19
+    m_object: {fileID: 427588332354682805, guid: 320a2153c306f124e9df52b52a0f4e19,
+      type: 3}
+  - m_name: Prefab_Birch_05
+    m_id: -2147483643
+    m_guid: 61bdbc13522514f4e9095e7fec63a76e
+    m_object: {fileID: 5194611686949037208, guid: 61bdbc13522514f4e9095e7fec63a76e,
+      type: 3}
