@@ -1,3 +1,0 @@
-Game Extension akan dikhususkan untuk memuat Game Unity Package
-
-Buka Folder Google Drive untuk bisa mendapatkan semua Asset yang digunakan : https://drive.google.com/drive/folders/1s-O0pt0Dbcpggriq05NC5hrrirO8uLKQ?usp=drive_link

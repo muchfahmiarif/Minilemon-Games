@@ -1,1 +1,0 @@
-Game Master Unity Project adalah Folder khusus yang akan berisikan Main Project File yang akan selalu di pegang oleh bagian (G) Gameplay dan ini akan menjadi File utama dari game maka dari itu diwajibkan untuk menulis dokumentasi dan serta detail File project nya dibawah ini.

@@ -1,1 +1,0 @@
-Game Mechanic Folder adalah folder khusus untuk tempat penyimpanan Mechanic game yang telah dibuat dan dari setiap Mechanic diwajibkan menuliskan dokumentasi dimulai dari cara penggunaan sampai ketentuan yang diperlukan dari setiap Mechanic dan diwajibkan membuat sub-folder untuk per Mechanic nya dengan mencantum kan File Unity dan Dokumentasinya.
