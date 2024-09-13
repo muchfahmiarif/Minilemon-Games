@@ -96,6 +96,7 @@ ModelImporter:
   externalObjects: {}
   materials:
     materialImportMode: 1
+
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -105,6 +106,7 @@ ModelImporter:
     resampleCurves: 1
     optimizeGameObjects: 0
     removeConstantScaleCurves: 0
+
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
